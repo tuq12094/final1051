@@ -10,7 +10,7 @@ Antonio Morano
 
 #### Project title
 
-Morano's Mario Simulation
+Luigi Simulation
 
 ***
 
@@ -18,11 +18,10 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-I have analyzed the files given and been able to add the pyramid portion of the project to allow it to look like tiles like in the actual mario game.
+Created a mario object that is able to be moved by use to arrows and key board. 
 
 #### What have you not done for your project yet?
-
-I will still need to create a flagpole at the end of the level that allows for a victory message to appear. 
+I cannot get my mario to jump, or move to a new level.
 
 #### What problems, if any, have you encountered?
 
