@@ -1,8 +1,7 @@
 # Preproposal
 
 ## What idea(s) do you have for your final project?
-I will be doing the "Mario" simulation roject that was proposed in class.
-I will need to make a pyramid and flag that mario must reach at the end of his game, then a message msu appear to display victory!
+I will be making my own adaptation of the mario game seperate from the one discussed in class.
 TODO
 
 ## If you plan to collaborate with one or two classmates, what are their names?
