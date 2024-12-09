@@ -2,15 +2,15 @@
 
 ## What will (likely) be the title of your project?
 
- #Mario
+ #Luigi
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-#I will create a mario game a little similar to the one we did in class. In making the pyramid at the end, I will use tiles, and I will also create a flagpole in which mario will cross and a victory message will display.
+#I will create a mario game a little similar to the one we did in class. In the sence, I will be making my own adaptation.
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-#The primary basis of the software will be to create a climable tiled piramid for mario at the end of the level completed, and a flagpole that allows for a victory message to appear or transition to a new level. The pyramid will need to be symmetrical for the game to work and above the ground to allow for a close jump to the flagpole, like in mario. Flagpole sprites from the distro's sprite sheet and collision detection will be utilized. 
+#The game will simulate a game likely to mario with moving objects and a finish line. I hopw to add a pyramid and flag with a sprite to make it as close as I can get.
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
@@ -35,4 +35,4 @@
 #The best outcome would be for me to complete the project to the fullest extent as explained in the assignment. I truly will be hoping for the best. 
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
-#Ill need to examine the zip file that is given to me in the assignment and see how I can implement the sprites to the correct areas of the games, making sure not to do it before the level is ended. I will also need to analyze the scripts given to see where I need to build off of.
+#Ill need to be able to emulate a moving onject with my keyboard. I will need to use sprites to accomplish this.
